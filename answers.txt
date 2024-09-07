@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: It allows for easy collaboration on a project for multiple people
+to make changes.
+
+
