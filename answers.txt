@@ -11,3 +11,8 @@ Answer: Data science can be applied to the medical field. For example,
 data scientists can study images of tumors and maybe make a model that can
 predict early tumors.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Git merging combines two branches into one. Git rebasing moves one
+branch to the other.
